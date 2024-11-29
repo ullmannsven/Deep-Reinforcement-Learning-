@@ -1,0 +1,4 @@
+# Abgabe zu Blatt 2 von Sven Ullmann und Valentin Adam
+- In ex1.ipynb ist Aufgabe 1 bearbeitet worden 
+- In ex2.ipynb ist Aufgabe 2 bearbeitet worden 
+- In ex3.ipynb ist Aufgabe 3 a und b bearbeitet worden. 3c wurde nicht bearbeitet
